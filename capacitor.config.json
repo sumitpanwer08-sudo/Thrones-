@@ -1,0 +1,6 @@
+{
+  "appId": "com.thrones.app",
+  "appName": "thrones",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
