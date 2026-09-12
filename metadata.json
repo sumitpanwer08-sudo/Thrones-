@@ -1,0 +1,6 @@
+{
+  "name": "Thrones",
+  "description": "An epic dark-themed music streaming web player and MP3 downloader featuring Game of Thrones Direwolf, Iron Throne, and Fire & Ice visuals, powered by JioSaavn music streaming and high-speed audio downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
